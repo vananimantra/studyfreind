@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[71],{97089:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/api-access",function(){return _(10190)}])},10190:function(n,u,_){"use strict";_.r(u);var c=_(85893),s=_(95633);u.default=()=>(0,c.jsx)(s.Z,{})}},function(n){n.O(0,[633,774,888,179],function(){return n(n.s=97089)}),_N_E=n.O()}]);
